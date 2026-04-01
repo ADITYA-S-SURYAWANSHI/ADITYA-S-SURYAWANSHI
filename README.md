@@ -6,11 +6,11 @@
 
 ## 🧠 About Me
 
- Exploring Machine Learning deeply 
- Focused on understanding how models actually work
- daily learner and builder
+* Exploring Machine Learning 
+* Focused on understanding how models actually work
+* learner and builder
 
-
+---
 
 ## ⚙️ Skills
 
@@ -36,14 +36,14 @@
 
 ## 📂 Projects
 
-   Student Performance Predictor (ML Project)
-   Voice Command AI
-   Snake Water Gun Game
-   Number Guessing Game
+* 🎯 Student Performance Predictor (ML Project)
+* 🎤 Voice Command AI
+* 🎮 Snake Water Gun Game
+* 🎯 Number Guessing Game
 
 ---
 
-##  Current Focus
+## 📈 Current Focus
 
 * Machine Learning
 * Improving project depth and real-world applications
