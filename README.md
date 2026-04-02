@@ -1,5 +1,4 @@
 # Hi, I'm Aditya 👋
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)
 🚀 Passionate about Machine Learning and Python Development
 
 # 🧠 About Me
