@@ -1,6 +1,6 @@
 # Hi, I'm Aditya 👋
 ## 🔥 My GitHub Streak
-
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)
 🚀 Passionate about Machine Learning and Python Development
 
